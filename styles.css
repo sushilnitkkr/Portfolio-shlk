@@ -76,3 +76,18 @@ position: -webkit-sticky;
 position: sticky;
 top: 0px;
 }
+.header-img{
+    width: 350px;
+    padding-left: 24rem;
+    display: block;
+}
+.align-center{
+    text-align: center;
+}
+.header-text{
+    text-align: center;
+    color: var(--dark-gray);
+}
+.header-span{
+    color: var(--primary-color);
+}
